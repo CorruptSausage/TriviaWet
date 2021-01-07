@@ -54,12 +54,12 @@ Dit zijn de straffen die de politie kan uitgeven, Ze kunnen nog veranderen.
 |Ontvoering burger | €2500,- | 15 maanden celstraf |
 |Gijzelen burger | €2500,- | 15 maanden celstraf |
 |Identiteitsfrade | €460,- | 10 uur taakstraf |
-|Buiten dienst wapen op zak | €700,- | N.V.T |
-|In het bezit zijn van een illegaal vuurwapen Cat. 1 | €5000,- | 30 uur taakstraf |
-|In het bezit zijn van een illegaal vuurwapen Cat. 2 | €10000,- | 25 maanden celstraf |
-|In het bezit zijn van een nepwapen | €740,- | N.V.T |
-|In het bezit zijn van een taser | €2000,- | N.V.T |
-|In het bezit zijn van een slag/steekwapen | €3500,- | N.V.T |
+|Buiten dienst wapen op zak | €700,- | Persoon moet Direct naar HB om het wapen in de opslag te leggen. |
+|In het bezit zijn van een illegaal vuurwapen Cat. 1 | €5000,- | 30 uur taakstraf + inbeslagname |
+|In het bezit zijn van een illegaal vuurwapen Cat. 2 | €10000,- | 25 maanden celstraf + inbeslagname|
+|In het bezit zijn van een nepwapen | €740,- | inbeslagname |
+|In het bezit zijn van een taser | €2000,- | inbeslagname |
+|In het bezit zijn van een slag/steekwapen | €3500,- | inbeslagname |
 |Lid van een criminele organisatie | €2500,- | 15 uur taakstraf |
 
 ## Groot misdrijf
