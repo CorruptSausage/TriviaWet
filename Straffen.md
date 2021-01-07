@@ -1,6 +1,6 @@
 # Straffen
 
-Dit zijn de straffen die de politie kan uitgeven, Ze kunnen nog veranderen
+Dit zijn de straffen die de politie kan uitgeven, Ze kunnen nog veranderen.
 
 ## Verkeers Misdrijf
 
