@@ -46,31 +46,31 @@ Dit zijn de straffen die de politie kan uitgeven, Ze kunnen nog veranderen.
 
 ## Middelmatig misdrijf
 
-|Feit|Bedrag|
-|:---|:---:|
-|Auto stelen | €2500,- |
-|Bedreiging | €900,- |
-|Bedreiging overheidsmedewerker | €1200,- |
-|Ontvoering burger | €2500,- |
-|Gijzelen burger | €2500,- |
-|Identiteitsfrade | €460,- |
-|Buiten dienst wapen op zak | €700,- |
-|In het bezit zijn van een illegaal vuurwapen Cat. 1 | €5000,- |
-|In het bezit zijn van een illegaal vuurwapen Cat. 2 | €10000,- |
-|In het bezit zijn van een nepwapen | €740,- |
-|In het bezit zijn van een taser | €2000,- |
-|In het bezit zijn van een slag/steekwapen | €3500,- |
-|Lid van een criminele organisatie | €2500,- |
+|Feit|Bedrag|Extra|
+|:---|:---:|---:|
+|Auto stelen | €2500,- | 15 uur taakstraf |
+|Bedreiging | €900,- | N.V.T
+|Bedreiging overheidsmedewerker | €1200,- | N.V.T |
+|Ontvoering burger | €2500,- | 15 maanden celstraf |
+|Gijzelen burger | €2500,- | 15 maanden celstraf |
+|Identiteitsfrade | €460,- | 10 uur taakstraf |
+|Buiten dienst wapen op zak | €700,- | N.V.T |
+|In het bezit zijn van een illegaal vuurwapen Cat. 1 | €5000,- | 30 uur taakstraf |
+|In het bezit zijn van een illegaal vuurwapen Cat. 2 | €10000,- | 25 maanden celstraf |
+|In het bezit zijn van een nepwapen | €740,- | N.V.T |
+|In het bezit zijn van een taser | €2000,- | N.V.T |
+|In het bezit zijn van een slag/steekwapen | €3500,- | N.V.T |
+|Lid van een criminele organisatie | €2500,- | 15 uur taakstraf |
 
 ## Groot misdrijf
 
 |Feit|Bedrag|Extra|
 |:---|:---:|---:|
-|mishandeling | €5000,- |
-|Mishandeling overheidsmedewerker | €6000,- |
-|Poging tot doodslag | €7000,- |
-|Doodslag | €12500,- |
-|Overval | €10000,- |
-|Witwassen | €9000,- |
+|mishandeling | €5000,- | 20 maanden celstraf |
+|Mishandeling overheidsmedewerker | €6000,- | 25 maanden celstraf |
+|Poging tot doodslag | €7000,- | 30 maanden celstraf |
+|Doodslag | €12500,- | 60 maanden celstraf |
+|Overval | €10000,- | 25 maanden celstraf |
+|Witwassen | €9000,- | 30 uur taakstraf |
 
 
