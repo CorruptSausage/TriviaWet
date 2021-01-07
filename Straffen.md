@@ -33,8 +33,44 @@ Dit zijn de straffen die de politie kan uitgeven, Ze kunnen nog veranderd worden
 |Rijden zonder kenteken | €240,- |
 |Rijden met te donkeren ramen | €240,- |
 
-##Klein misdrijf
+## Klein misdrijf
 
 |Feit|Bedrag|
 |:---|:---:|
+|Diefstal | €750,- |
+|Heterdaad vernieling | €1200,- |
+|belediging ambtenaar in functie | €240,- |
+|Openbare dronkenschap | €160,- |
+|Verstoring openbare orde | €240,- |
+|Dragen van een masker | €120,- |
+
+## Middelmatig misdrijf
+
+|Feit|Bedrag|
+|:---|:---:|
+|Auto stelen | €2500,- |
+|Bedreiging | €900,- |
+|Bedreiging overheidsmedewerker | €1200,- |
+|Ontvoering burger | €2500,- |
+|Gijzelen burger | €2500,- |
+|Identiteitsfrade | €460,- |
+|Buiten dienst wapen op zak | €700,- |
+|In het bezit zijn van een illegaal vuurwapen Cat. 1 | €5000,- |
+|In het bezit zijn van een illegaal vuurwapen Cat. 2 | €10000,- |
+|In het bezit zijn van een nepwapen | €740,- |
+|In het bezit zijn van een taser | €2000,- |
+|In het bezit zijn van een slag/steekwapen | €3500,- |
+|Lid van een criminele organisatie | €2500,- |
+
+## Groot misdrijf
+
+|Feit|Bedrag|
+|:---|:---:|
+|mishandeling | €5000,- |
+|Mishandeling overheidsmedewerker | €6000,- |
+|Poging tot doodslag | €7000,- |
+|Doodslag | €12500,- |
+|Overval | €10000,- |
+|Witwassen | €9000,- |
+
 
