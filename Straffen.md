@@ -33,3 +33,8 @@ Dit zijn de straffen die de politie kan uitgeven, Ze kunnen nog veranderd worden
 |Rijden zonder kenteken | €240,- |
 |Rijden met te donkeren ramen | €240,- |
 
+##Klein misdrijf
+
+|Feit|Bedrag|
+|:---|:---:|
+
