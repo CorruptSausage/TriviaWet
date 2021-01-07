@@ -64,8 +64,8 @@ Dit zijn de straffen die de politie kan uitgeven, Ze kunnen nog veranderen.
 
 ## Groot misdrijf
 
-|Feit|Bedrag|
-|:---|:---:|
+|Feit|Bedrag|Extra|
+|:---|:---:|---:|
 |mishandeling | €5000,- |
 |Mishandeling overheidsmedewerker | €6000,- |
 |Poging tot doodslag | €7000,- |
