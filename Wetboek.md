@@ -40,3 +40,5 @@ Discriminatie wegens:
 - Iedere €5000,-die dit persoon extra heeft komt een extra boete van €500,- euro extra.
 - Zodra een persoon een bedrag horen dan €50000,- heeft openstaan komt er een extra straf bovenop. Iedere €10000,- 10 maanden celstraf + celboete van de vorige regel.
 
+
+
